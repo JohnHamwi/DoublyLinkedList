@@ -33,7 +33,7 @@ This implementation provides a comprehensive example of a doubly linked list, wh
 To start using the DoublyLinkedList:
 ```bash
 # Clone the repository
-git clone https://github.com/johnhamwi/DoublyLinkedList
+git clone https://github.com/johnhamwi/doublylinkedlist
 ```
 
 <!-- EXAMPLES OF USAGE: Examples showing how to use the project -->
